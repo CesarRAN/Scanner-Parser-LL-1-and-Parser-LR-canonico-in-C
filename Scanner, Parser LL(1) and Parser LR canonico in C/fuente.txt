@@ -1,0 +1,9 @@
+programa
+{
+	PI=3.14;
+	circ=5*PI;
+	if(circ<12)
+	circ=15;
+	? circ;	
+	Select Compilador = 43 ;
+}
